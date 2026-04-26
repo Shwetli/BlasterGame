@@ -3,7 +3,7 @@
 Мултиплейър игра от жанра TPS, разработена с Unreal Engine 5 и C++.
 
 ## Изисквания
-- Unreal Engine 5.1+
+- Unreal Engine 5.1
 - Visual Studio 2022
 - Steam клиент
 
